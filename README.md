@@ -1,6 +1,6 @@
-## Hey There! 👋
+# Hey There! 👋
 
-I'm Alex - I'm a Computer Engineering student at University of West Attica
+<b>I'm Alex</b> - I'm a Computer Engineering student at University of West Attica
 - Currently building my own projects with
   
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,vite" height="35" />&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=supabase,postgres,deno" height="35" />
