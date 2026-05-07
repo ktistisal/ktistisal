@@ -7,4 +7,4 @@
 
 - Exploring / Interested in:
 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ros" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,c" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=py,flask" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=unity" height="35"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ros" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,c" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=py,flask" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=unity" height="35"/>
